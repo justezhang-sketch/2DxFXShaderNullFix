@@ -1,0 +1,10 @@
+{
+  "Id": "2DxFXShaderNullFix",
+  "DisplayName": "2DxFX Shader Null Fix",
+  "Author": "YourName",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.0",
+  "AssemblyName": "2DxFXShaderNullFix.dll",
+  "EntryMethod": "_2DxFXShaderNullFix.Main.Load",
+  "HomePage": ""
+}
